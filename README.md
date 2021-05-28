@@ -30,6 +30,13 @@ Mobile : 9382070426
 ### STEP 5 :
   Now , you are ready to go and open the `base_url` in the browser.
 
+## File Strcture and BASEURL
 
+
+![dir](1.JPG)
+
+## URL and Snapshot of complete project
+
+![url](2.JPG)
 
 
